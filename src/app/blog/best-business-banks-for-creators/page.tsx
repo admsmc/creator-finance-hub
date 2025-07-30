@@ -14,7 +14,7 @@ export default function BestBusinessBanksPage() {
           </div>
           
           <h1 className="text-4xl sm:text-5xl font-bold text-gray-900 mb-6 leading-tight">
-            The Best Business Banks for Content Creators (2024)
+            The Best Business Banks for Content Creators (2025)
           </h1>
           
           <p className="text-xl text-gray-600 leading-relaxed">
@@ -22,7 +22,7 @@ export default function BestBusinessBanksPage() {
           </p>
           
           <div className="flex items-center gap-4 mt-6 text-gray-500 text-sm">
-            <time>July 30, 2024</time>
+            <time>July 30, 2025</time>
           </div>
         </header>
 

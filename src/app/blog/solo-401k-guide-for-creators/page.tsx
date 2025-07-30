@@ -23,9 +23,9 @@ export default function Solo401kGuide() {
           </p>
           
           <div className="flex items-center gap-4 mt-6 text-gray-500 text-sm">
-            <time>January 15, 2024</time>
+            <time>January 15, 2025</time>
             <span>•</span>
-            <span>Updated for 2024 contribution limits</span>
+            <span>Updated for 2025 contribution limits</span>
           </div>
         </header>
 
@@ -36,7 +36,7 @@ export default function Solo401kGuide() {
           <div className="bg-blue-50 border-l-4 border-blue-400 p-6 mb-8 rounded-r-lg">
             <h3 className="text-lg font-semibold text-blue-900 mb-3">Quick Summary</h3>
             <ul className="text-blue-800 space-y-1">
-              <li>• Solo 401k allows up to $69,000 in contributions for 2024 ($76,500 if 50+)</li>
+              <li>• Solo 401k allows up to $70,000 in contributions for 2025 ($77,500 if 50+)</li>
               <li>• Perfect for creators with self-employment income</li>
               <li>• Can reduce your taxable income significantly</li>
               <li>• Easy to set up with the right provider</li>
@@ -57,7 +57,7 @@ export default function Solo401kGuide() {
             as both the employee AND the employer, dramatically increasing your savings potential.
           </p>
 
-          <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">2024 Contribution Limits</h2>
+          <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">2025 Contribution Limits</h2>
           
           <div className="bg-white border rounded-lg p-6 mb-8">
             <h3 className="text-xl font-semibold mb-4">Maximum Annual Contributions</h3>
@@ -65,17 +65,17 @@ export default function Solo401kGuide() {
               <div>
                 <h4 className="font-semibold text-gray-900 mb-2">Under Age 50</h4>
                 <ul className="space-y-1 text-gray-700">
-                  <li>Employee contribution: $23,000</li>
-                  <li>Employer contribution: Up to $46,000</li>
-                  <li><strong>Total maximum: $69,000</strong></li>
+                  <li>Employee contribution: $23,500</li>
+                  <li>Employer contribution: Up to $46,500</li>
+                  <li><strong>Total maximum: $70,000</strong></li>
                 </ul>
               </div>
               <div>
                 <h4 className="font-semibold text-gray-900 mb-2">Age 50 and Over</h4>
                 <ul className="space-y-1 text-gray-700">
-                  <li>Employee contribution: $30,500 (includes $7,500 catch-up)</li>
-                  <li>Employer contribution: Up to $46,000</li>
-                  <li><strong>Total maximum: $76,500</strong></li>
+                  <li>Employee contribution: $31,000 (includes $7,500 catch-up)</li>
+                  <li>Employer contribution: Up to $46,500</li>
+                  <li><strong>Total maximum: $77,500</strong></li>
                 </ul>
               </div>
             </div>
@@ -209,7 +209,7 @@ export default function Solo401kGuide() {
             <h3 className="text-lg font-semibold text-yellow-900 mb-3">Important Deadline</h3>
             <p className="text-yellow-800">
               You have until the tax filing deadline (including extensions) to make Solo 401k contributions 
-              for the previous tax year. For 2024, that means you have until April 15, 2025, or October 15, 2025, 
+              for the previous tax year. For 2025, that means you have until April 15, 2026, or October 15, 2026, 
               if you file an extension.
             </p>
           </div>

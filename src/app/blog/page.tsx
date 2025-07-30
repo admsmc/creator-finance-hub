@@ -3,9 +3,9 @@ import Link from 'next/link';
 const blogPosts = [
   {
     slug: 'best-business-banks-for-creators',
-    title: 'The Best Business Banks for Content Creators (2024)',
+    title: 'The Best Business Banks for Content Creators (2025)',
     excerpt: 'Compare Mercury, Novo, and Relay to find the perfect business bank for your creator business. No fees, powerful integrations, and features built for digital entrepreneurs.',
-    publishedAt: '2024-07-30',
+    publishedAt: '2025-07-30',
     readTime: '10 min read',
     category: 'Business Banking'
   },
@@ -13,7 +13,7 @@ const blogPosts = [
     slug: 'solo-401k-guide-for-creators',
     title: 'The Complete Solo 401k Guide for Content Creators',
     excerpt: 'Maximize your retirement savings as a creator with this comprehensive guide to Solo 401ks. Learn contribution limits, tax benefits, and setup process.',
-    publishedAt: '2024-01-15',
+    publishedAt: '2025-01-15',
     readTime: '8 min read',
     category: 'Retirement Planning'
   },
@@ -21,7 +21,7 @@ const blogPosts = [
     slug: 'llc-vs-s-corp-creators',
     title: 'LLC vs S-Corp: Which Business Structure is Best for Creators?',
     excerpt: 'Choosing the right business entity can save you thousands in taxes. Compare LLC and S-Corp options for your creator business.',
-    publishedAt: '2024-01-10',
+    publishedAt: '2025-01-10',
     readTime: '6 min read',
     category: 'Business Structure'
   },
@@ -29,7 +29,7 @@ const blogPosts = [
     slug: 'quarterly-tax-calculator-creators',
     title: 'How to Calculate Quarterly Taxes with Irregular Creator Income',
     excerpt: 'Master quarterly tax payments even with unpredictable YouTube ad revenue and sponsorship income. Includes free calculator.',
-    publishedAt: '2024-01-05',
+    publishedAt: '2025-01-05',
     readTime: '5 min read',
     category: 'Tax Strategy'
   }
