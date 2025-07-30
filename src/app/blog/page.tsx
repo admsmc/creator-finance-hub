@@ -2,6 +2,14 @@ import Link from 'next/link';
 
 const blogPosts = [
   {
+    slug: 'best-business-banks-for-creators',
+    title: 'The Best Business Banks for Content Creators (2024)',
+    excerpt: 'Compare Mercury, Novo, and Relay to find the perfect business bank for your creator business. No fees, powerful integrations, and features built for digital entrepreneurs.',
+    publishedAt: '2024-07-30',
+    readTime: '10 min read',
+    category: 'Business Banking'
+  },
+  {
     slug: 'solo-401k-guide-for-creators',
     title: 'The Complete Solo 401k Guide for Content Creators',
     excerpt: 'Maximize your retirement savings as a creator with this comprehensive guide to Solo 401ks. Learn contribution limits, tax benefits, and setup process.',
