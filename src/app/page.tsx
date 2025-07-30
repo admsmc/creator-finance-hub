@@ -4,10 +4,10 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
-      <section className="bg-white">
+      <section className="bg-white" aria-labelledby="hero-heading">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
           <div className="text-center">
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
+            <h1 id="hero-heading" className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
               Financial Success for
               <span className="text-green-600 block">Content Creators</span>
             </h1>
@@ -34,10 +34,10 @@ export default function Home() {
       </section>
 
       {/* Features Section */}
-      <section className="py-20">
+      <section className="py-20" aria-labelledby="features-heading">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">
+            <h2 id="features-heading" className="text-3xl font-bold text-gray-900 mb-4">
               Everything You Need to Manage Creator Finances
             </h2>
             <p className="text-lg text-gray-600">
@@ -86,9 +86,9 @@ export default function Home() {
       </section>
 
       {/* CTA Section */}
-      <section className="bg-green-600 py-16">
+      <section className="bg-green-600 py-16" aria-labelledby="cta-heading">
         <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
-          <h2 className="text-3xl font-bold text-white mb-4">
+          <h2 id="cta-heading" className="text-3xl font-bold text-white mb-4">
             Ready to Take Control of Your Creator Finances?
           </h2>
           <p className="text-xl text-green-100 mb-8">
