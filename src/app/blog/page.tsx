@@ -10,20 +10,20 @@ const blogPosts = [
     category: 'Business Banking'
   },
   {
+    slug: 'llc-vs-s-corp-creators',
+    title: 'LLC vs. S-Corp: The Best Business Structure for Creators',
+    excerpt: 'Choosing the right business entity can save you thousands in taxes and protect your personal assets. We break down the pros and cons of LLCs and S-Corps for your creator business.',
+    publishedAt: '2025-07-30',
+    readTime: '9 min read',
+    category: 'Business Structure'
+  },
+  {
     slug: 'solo-401k-guide-for-creators',
     title: 'The Complete Solo 401k Guide for Content Creators',
     excerpt: 'Maximize your retirement savings as a creator with this comprehensive guide to Solo 401ks. Learn contribution limits, tax benefits, and setup process.',
     publishedAt: '2025-01-15',
     readTime: '8 min read',
     category: 'Retirement Planning'
-  },
-  {
-    slug: 'llc-vs-s-corp-creators',
-    title: 'LLC vs S-Corp: Which Business Structure is Best for Creators?',
-    excerpt: 'Choosing the right business entity can save you thousands in taxes. Compare LLC and S-Corp options for your creator business.',
-    publishedAt: '2025-01-10',
-    readTime: '6 min read',
-    category: 'Business Structure'
   },
   {
     slug: 'quarterly-tax-calculator-creators',
